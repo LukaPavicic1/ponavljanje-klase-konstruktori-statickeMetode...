@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\ponavljanje_1\bin\Debug\ponavljanje_1.exe.config
+C:\Users\ucenik\Documents\ponavljanje_1\bin\Debug\ponavljanje_1.exe
+C:\Users\ucenik\Documents\ponavljanje_1\bin\Debug\ponavljanje_1.pdb
+C:\Users\ucenik\Documents\ponavljanje_1\obj\Debug\ponavljanje_1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\ponavljanje_1\obj\Debug\ponavljanje_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\ponavljanje_1\obj\Debug\ponavljanje_1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\ponavljanje_1\obj\Debug\ponavljanje_1.exe
+C:\Users\ucenik\Documents\ponavljanje_1\obj\Debug\ponavljanje_1.pdb
